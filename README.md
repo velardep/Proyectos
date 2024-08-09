@@ -4,7 +4,7 @@ Proyectos basicos realizados en materias
 ## Proyectos
 ### [Sistema de Gestión para un Restaurante] 
 Este proyecto incluye código para la gestion de clientes, reservas y menus de un restaurante ficticio.
-Debido al tamaño del proyecto, algunos archivos se almacenan externamente: (https://drive.google.com/file/d/1cExXVAqqOOOcn813c34zGalhkfGbHeEd/view?usp=drive_link)
+Debido al tamaño del proyecto, algunos archivos se almacenan externamente: (https://drive.google.com/file/d/1cExXVAqqOOOcn813c34zGalhkfGbHeEd/view?usp=sharing)
 Dentro del drive se encuentran las carpetas con todos los codigos y un backup de la base de datos utilizada con Postgres.
 Cabe recalcar que para ejecutar sistema se tiene que realizar de manera local (localhost)
 
